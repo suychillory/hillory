@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Brigham Young's Resume
+title: Hillory's Resume
 ---
 # Brigham Young
 The second prophet of The Church of Jesus Christ of Latter-day Saints.
@@ -16,15 +16,15 @@ The second prophet of The Church of Jesus Christ of Latter-day Saints.
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
+`2020-2021`
+__College of Lake County__, Grayslake,IL
+__Brigham Young University Idaho__, Rexburg,ID
 
-- Full academic scholarship with 4.0 GPA
 
-`Expected 2029`
+`Expected 2024`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- 4.0 Major GPA
+- 3.25 Major GPA
 
 
 ## Related Experience
