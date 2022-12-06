@@ -2,7 +2,7 @@
 layout: cv
 title: Hillory's Resume
 ---
-# Brigham Young
+# Hillory Suy
 The second prophet of The Church of Jesus Christ of Latter-day Saints.
 
 <div id="webaddress">
