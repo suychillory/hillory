@@ -3,9 +3,10 @@ layout: cv
 title: Hillory's Resume
 ---
 # Hillory Suy
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+Purpose statment.
 
-<div id="webaddress">
+
+<div id="webaddress"> #update to include your links
 <a href="datascience@byui.edu">datascience@byui.edu</a>
 | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
 | <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
@@ -18,7 +19,7 @@ The second prophet of The Church of Jesus Christ of Latter-day Saints.
 
 `2020-2021`
 __College of Lake County__, Grayslake,IL
-__Brigham Young University Idaho__, Rexburg,ID
+__Brigham Young University Idaho__, Rexburg,ID #Was this online? Does it need to be listed twice? 
 
 
 `Expected 2024`
